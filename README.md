@@ -1,2 +1,1 @@
-# sample-test
-# sample-test
+# Sephora Data Pipeline Project
